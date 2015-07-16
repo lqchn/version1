@@ -1,0 +1,11 @@
+      <div class="photodiv col-md-2 photo_frame">
+            <div class="img_div">
+                <button class="thumbnail photoBtn" data-toggle="modal" data-target="#myModal" value="">
+                  <img class="photo" src="/static/images/777.jpg">
+                </button>
+            </div>
+              <footer>
+                   <button type="button" class="praise btn btn-default like_btn_size" ><span class="glyphicon glyphicon-thumbs-up"></span> 5588</button>
+                   <button type="button" class="comment btn btn-default like_btn_size"><span class="glyphicon glyphicon-comment"></span> 8888</button>
+              </footer>
+      </div>

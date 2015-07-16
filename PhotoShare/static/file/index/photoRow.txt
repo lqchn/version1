@@ -1,0 +1,3 @@
+  <div class="row photoShow" style="margin-top: 2%; padding: 0;">
+
+  </div>
